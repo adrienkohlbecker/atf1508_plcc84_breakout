@@ -6,8 +6,8 @@
 
   (title_block
     (title "ATF1508 PLCC84 Breakout")
-    (date "2023-06-17")
-    (rev "A")
+    (date "2023-07-15")
+    (rev "B")
     (comment 2 "https://github.com/adrienkohlbecker/atf1508_plcc84_breakout")
     (comment 3 "Licensed under CERN-OHL-W v2")
     (comment 4 "Copyright © Adrien Kohlbecker")
@@ -2002,7 +2002,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 11046c06-89c1-4a10-8096-fb7009ebfe3d)
   )
-  (label "I{slash}GCLR" (at 238.76 60.96 0) (fields_autoplaced)
+  (label "I{slash}GCLR" (at 238.76 55.88 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 120d2a93-1b0c-44e8-9f9d-760ee0069edb)
   )
@@ -2190,7 +2190,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 59391c9d-5c96-448d-8d7e-06b29663e168)
   )
-  (label "I{slash}GCLK1" (at 238.76 55.88 0) (fields_autoplaced)
+  (label "I{slash}GCLK1" (at 238.76 60.96 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5a45275a-3d47-4558-acf8-e64638a04d5d)
   )
